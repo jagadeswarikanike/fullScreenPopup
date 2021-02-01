@@ -1,0 +1,15 @@
+.full-screen {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq4EwdT6cfsqVNToavkHkTg_7svv1y4uotuQ&usqp=CAU");
+}
+.hidden {
+    display: none;
+}
+.content-style {
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
